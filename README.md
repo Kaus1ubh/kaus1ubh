@@ -15,8 +15,6 @@
 
 <p align="center">
   <strong><a href="https://kaustu.bh">Website</a></strong> |
-  <strong><a href="https://x.com/onkaus">X</a></strong> |
   <strong><a href="https://instagram.com/kaus1ubh">Instagram</a></strong> |
-  <strong><a href="https://codeforces.com/profile/kaus1ubh">Codeforces</a></strong> |
   <strong><a href="https://kaustu.bh/guestbook">Guestbook</a></strong>
 </p>
