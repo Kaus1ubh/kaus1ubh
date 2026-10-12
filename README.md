@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kaustu.bh">
-    <img src="banner.jpg" alt="A manga close-up of an eye" width="40%">
+    <img src="banner.jpg" alt="Lain under a halo of text, green code behind her" width="60%">
   </a>
 </p>
 
